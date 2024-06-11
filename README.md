@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🙋‍♂️ Sup, lil friend!!
 
-<!--
-**wey-1206/wey-1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name's Wesley Prado, or just Wey (and no, it's not Whey Protein)
+### They say I'm a Java developer, but I think I just like a good cup of coffee ☕
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+ public String getJoke() {
+        return "Why do programmers have bad hair days?
+        Because they take too many coffee breaks, sleep too little, and see everything in RGB!";
+    }
+    
+```
+> ### Languages and Technologies
+>
+>#### 🔙 **Backend**: <br>
+  >>☕ ***Java***  <br>
+     Spring Boot, Spring Web, Spring Data JPA, Spring Session, Lombok 
+     <br>
+     <br>
+    ***｡🇯‌🇸‌ Node.js*** <br>
+     Express, Sequelize, Knex
+>  >
+>#### 🖥️ **Frontend**: <br>
+  >>✨***HTML, CSS, JS, React, Tailwind, Boostrap***  <br>
+>
+>#### 🛢️ **Databases**: <br>
+   >> MySQL, PostGres
+>
+>#### 🌐 **Outers**: <br>
+    REST/RESTful, Visual Studio Code, IntelliJ, Eclipse, Git and Github, Postman, Spotify (yes, I use the green app a lot, lol)
